@@ -1,6 +1,7 @@
 public class MachineProblem
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         System.out.println("University of the East \n" +
                            "College of Engineering \n" +
                            "Computer Engineering Department");
@@ -11,5 +12,6 @@ public class MachineProblem
         System.out.println("Today's weather is fine");
         System.out.println("\"Tomorrow Begins in the East\"");
         System.out.println("1/3 of 30 is 10");
+
     }
 }
