@@ -7,7 +7,8 @@ public class ReviewClass
         final int LIMIT = 11;
         while (val < LIMIT)
         {
-            System.out.print(val);
+            System.out.println(val);
+            System.out.println("Testing Git");
             val = val + 1;
         }
     }
