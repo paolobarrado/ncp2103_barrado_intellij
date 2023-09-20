@@ -8,7 +8,6 @@ public class ReviewClass
         while (val < LIMIT)
         {
             System.out.println(val);
-            System.out.println("Testing Git");
             val = val + 1;
         }
     }
