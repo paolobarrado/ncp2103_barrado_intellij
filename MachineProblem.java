@@ -12,7 +12,7 @@ public class MachineProblem
         System.out.println("Today's weather is fine");
         System.out.println("\"Tomorrow Begins in the East\"");
         System.out.println("1/3 of 30 is 10");
-        System.out.println("Try pls lang pls");
+        System.out.println("Try pls lang");
 
 
     }
